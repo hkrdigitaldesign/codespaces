@@ -1,0 +1,13 @@
+{
+  "name": "HTML & CSS",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-20",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Webbplats",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "npm install -g live-server",
+  "postAttachCommand": "live-server --port=3000 --host=0.0.0.0 --no-browser"
+}

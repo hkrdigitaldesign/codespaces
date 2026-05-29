@@ -72,6 +72,18 @@ Din kod försvinner inte – nästa gång fortsätter du där du slutade!
 ## Kom igång
 
 1. Klicka på **"Use this template"** → **"Open in a codespace"**.
-2. Vänta medan miljön byggs (ca 1-2 minuter första gången).
-3. Klicka på **PORTS**-fliken i mitten på terminalfönstret. Visa terminal via menyn Terminal → New Terminal.
-4. Klicka på länken vid port **3000** för att öppna din webbsida.
+2. Vänta medan miljön byggs (ca 1 minut första gången).
+3. Webbservern startar automatiskt. Klicka på **PORTS**-fliken och öppna länken vid port **3000** för att se din webbplats.
+4. Redigera `index.html` och `assets/css/style.css` — spara så uppdateras sidan automatiskt i webbläsaren.
+
+## Filstruktur
+
+```
+/
+├── index.html              ← Startsida (redigera denna)
+├── assets/
+│   ├── css/
+│   │   └── style.css       ← Din CSS (redan länkad i index.html)
+│   └── images/             ← Lägg dina bilder här
+└── .devcontainer/          ← Konfiguration (rör ej)
+```
