@@ -76,7 +76,7 @@ Din kod försvinner inte – nästa gång fortsätter du där du slutade!
 
 ---
 
-## Kom igång
+## 1. Codespaces – utveckla i molnet
 
 1. Klicka på den **gröna knappen "Use this template"** längst upp till höger på den här sidan → välj **"Open in a codespace"**.
 2. Vänta medan miljön byggs (ca 1 minut första gången).
@@ -97,7 +97,7 @@ Din kod försvinner inte – nästa gång fortsätter du där du slutade!
 
 ---
 
-## Webshare – publicera din webbplats
+## 2. Webshare – publicera din webbplats
 
 Webshare är högskolans tjänst för att publicera din egen webbplats på en publik adress.
 
@@ -113,5 +113,5 @@ Webshare är högskolans tjänst för att publicera din egen webbplats på en pu
 
    Alternativt: skriv `ftp://www.webshare.hkr.se/` i webbläsarens adressfält, logga in och följ instruktionerna.
 3. I din startmapp (samma namn som ditt inloggningsnamn) finns en färdig startsida `default.asp`.
-4. För en egen HTML-sida — ersätt den med en fil som heter **`index.html`** eller `index.htm`.
+4. För en egen HTML-sida — ersätt den med en fil som heter **`index.html`**.
 5. Din webbplats blir då tillgänglig på: **`https://www.webshare.hkr.se/inloggningsnamn`**
