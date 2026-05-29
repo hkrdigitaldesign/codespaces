@@ -1,6 +1,6 @@
 # Utvecklingsmiljö
 
-En utvecklingsmiljö för HTML och CSS.
+En utvecklingsmiljö för HTML och CSS. Det finns två sätt att arbeta: utveckla i molnet med **GitHub Codespaces**, eller publicera din webbplats med högskolans tjänst **Webshare**. Du kan använda det ena, det andra eller båda.
 
 ---
 
@@ -87,3 +87,24 @@ Din kod försvinner inte – nästa gång fortsätter du där du slutade!
 │   └── images/             ← Lägg dina bilder här
 └── .devcontainer/          ← Konfiguration (rör ej)
 ```
+
+---
+
+## Webshare – publicera din webbplats
+
+Webshare är högskolans tjänst för att publicera din egen webbplats på en publik adress.
+
+1. Aktivera ditt konto via **[webshare-aktivera.hkr.se](https://www.webshare-aktivera.hkr.se)**.
+2. Anslut med en **FTP-klient** (t.ex. FileZilla) med dessa uppgifter:
+
+   | Inställning | Värde |
+   |-------------|-------|
+   | Värd (host) | `www.webshare.hkr.se` |
+   | Användare | ditt **inloggningsnamn** |
+   | Lösenord | ditt vanliga lösenord |
+   | Inloggningstyp | **Normal** (krävs i vissa FTP-klienter) |
+
+   Alternativt: skriv `ftp://www.webshare.hkr.se/` i webbläsarens adressfält, logga in och följ instruktionerna.
+3. I din startmapp (samma namn som ditt inloggningsnamn) finns en färdig startsida `default.asp`.
+4. För en egen HTML-sida — ersätt den med en fil som heter **`index.html`** eller `index.htm`.
+5. Din webbplats blir då tillgänglig på: **`https://www.webshare.hkr.se/inloggningsnamn`**
