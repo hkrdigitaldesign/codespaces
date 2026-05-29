@@ -78,7 +78,7 @@ Din kod försvinner inte – nästa gång fortsätter du där du slutade!
 
 ## Kom igång
 
-1. Klicka på **"Use this template"** → **"Open in a codespace"**.
+1. Klicka på den **gröna knappen "Use this template"** längst upp till höger på den här sidan → välj **"Open in a codespace"**.
 2. Vänta medan miljön byggs (ca 1 minut första gången).
 3. Webbservern startar automatiskt. Klicka på **PORTS**-fliken och öppna länken vid port **3000** för att se din webbplats.
 4. Redigera `index.html` och `assets/css/style.css` — spara så uppdateras sidan automatiskt i webbläsaren.
