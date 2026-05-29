@@ -1,6 +1,13 @@
 # Utvecklingsmiljö
 
-En utvecklingsmiljö för HTML och CSS. Det finns två sätt att arbeta: utveckla i molnet med **GitHub Codespaces**, eller publicera din webbplats med högskolans tjänst **Webshare**. Du kan använda det ena, det andra eller båda.
+En utvecklingsmiljö för HTML och CSS.
+
+Det finns två sätt att arbeta:
+
+1. Utveckla i molnet med **GitHub Codespaces**.
+2. Publicera din webbplats med högskolans tjänst **Webshare**.
+
+Du kan använda det ena, det andra eller båda.
 
 ---
 
