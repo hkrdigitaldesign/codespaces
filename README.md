@@ -13,7 +13,7 @@ Du kan använda det ena, det andra eller båda.
 
 ## Innan du börjar: GitHub Student Developer Pack
 
-För att använda Codespaces gratis behöver du registrera dig för GitHub Student Developer Pack med din universitetsmail.
+För att använda Codespaces gratis behöver du registrera dig för GitHub Student Developer Pack med din högskolemail.
 
 1. Gå till **[GitHub Student Developer Pack](https://education.github.com/pack)**
 2. Klicka på **"Sign up for Student Developer Pack"**
